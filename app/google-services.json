@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "320425429748",
+    "project_id": "world-chat-v2",
+    "storage_bucket": "world-chat-v2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:320425429748:android:e631ac963f1722d4c1aca1",
+        "android_client_info": {
+          "package_name": "world.chat.v2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "320425429748-f4jmsrem59ho9s25qrcvjsfg8mo1l5ir.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAed83BFPJ5uGpLPjVkR4ynfcqBX4RY04"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "320425429748-f4jmsrem59ho9s25qrcvjsfg8mo1l5ir.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
